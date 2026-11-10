@@ -1,4 +1,4 @@
-# FinSight - Personal Finance & Investment Tracker
+# Finance Analytics Platform for Financial Reporting and Budget Tracking
 
 ## 1. Project Overview
 FinSight is a comprehensive personal finance and investment tracking application designed to give you a 360-degree view of your financial health. Built on a modern tech stack featuring a **React 19 + Vite** frontend and a **Python FastAPI + MongoDB (Beanie ODM)** backend, it delivers a fast and robust experience. The core features include robust User Authentication, tracking daily Expenses, setting monthly Budgets, and managing Investments with live pricing updates. It also includes tracking savings Goals, intelligent Analytics (including health scores and predictions), email Notifications, Recurring Expenses management, Household sharing for family finances, full Audit Logs for security tracking, and PDF/Excel Report exports.
