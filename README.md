@@ -1,7 +1,7 @@
 # Finance Analytics Platform for Financial Reporting and Budget Tracking
 
 ## 1. Project Overview
-FinSight is a comprehensive personal finance and investment tracking application designed to give you a 360-degree view of your financial health. Built on a modern tech stack featuring a **React 19 + Vite** frontend and a **Python FastAPI + MongoDB (Beanie ODM)** backend, it delivers a fast and robust experience. The core features include robust User Authentication, tracking daily Expenses, setting monthly Budgets, and managing Investments with live pricing updates. It also includes tracking savings Goals, intelligent Analytics (including health scores and predictions), email Notifications, Recurring Expenses management, Household sharing for family finances, full Audit Logs for security tracking, and PDF/Excel Report exports.
+Finance Analytics Platform for Financial Reporting and Budget Tracking is a comprehensive personal finance and investment tracking application designed to give you a 360-degree view of your financial health. Built on a modern tech stack featuring a **React 19 + Vite** frontend and a **Python FastAPI + MongoDB (Beanie ODM)** backend, it delivers a fast and robust experience. The core features include robust User Authentication, tracking daily Expenses, setting monthly Budgets, and managing Investments with live pricing updates. It also includes tracking savings Goals, intelligent Analytics (including health scores and predictions), email Notifications, Recurring Expenses management, Household sharing for family finances, full Audit Logs for security tracking, and PDF/Excel Report exports.
 
 ## 2. Prerequisites
 Before setting up the project, ensure you have the following installed:
@@ -129,3 +129,24 @@ This project makes use of excellent free-tier APIs to power live pricing:
 *   [mfapi.in](https://www.mfapi.in/) - For Indian Mutual Fund NAVs.
 *   **Yahoo Finance** (via `yfinance` Python library) - For global Stock and ETF pricing.
 Because these are unofficial/free-tier endpoints, occasional downtime, rate limiting, or temporary outages are possible.
+
+## 👥 Team Members & Contributors
+
+This project was developed collaboratively by our team. Each member contributed to the development and improvement of the Finance Analytics Platform for Financial Reporting and Budget Tracking.
+
+| Team Member | GitHub Profile | Project Repository |
+|---|---|---|
+| D. Sravani | [@Sravannii-24](https://github.com/Sravannii-24) | Main Repository |
+| Pradeeba R S | [@pradee-02](https://github.com/pradee-02) | [View Repository](https://github.com/pradee-02/Finance-Analytics-Platform-for-Financial-Reporting-and-Budget-Tracking) |
+| Kinjal Gupta | [@KinjalGupta46](https://github.com/KinjalGupta46) | [View Repository](https://github.com/KinjalGupta46/FinSight-Expense-Tracker) |
+| Shrushti Haibati Manglekar | [@shrush-04](https://github.com/shrush-04) | [View Repository](https://github.com/shrush-04/Fin-Sight) |
+
+### 🤝 Acknowledgments
+
+Special thanks to all team members for their collaboration, contributions, and efforts throughout the development of this project.
+
+## 🎓 Mentor & Guidance
+
+**Dr. V. Suresh Kumar**
+
+We sincerely thank our mentor, **Dr. V. Suresh Kumar**, for his valuable guidance, continuous support, and encouragement throughout the development of this project. His insights and suggestions helped us improve the project and strengthen our understanding of financial analytics and application development.
